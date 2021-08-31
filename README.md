@@ -17,4 +17,4 @@ AUTHORS:
 Morgan Gant 
 
 USER INSTRUCTIONS:
-The output is hard to read and definitly needs to be formatted better but I haven't learned how to format outputs from an array that were read in from a text file. 
+The output is hard to read and definitly needs to be formatted better but I haven't learned how to format outputs from an array that were read in from a text file.  
