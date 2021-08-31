@@ -4,7 +4,7 @@
                           text file by a ":", sorting the parts into an array and trying to output the information correctly
 2021- August-30: 2 Hours: Trying different output methods by taking in a student name and outputting the goals after the searched name went through the array 
 2021- August-31: 4 Hours: Tried implementing and changing my program to output the information correclty but failed to do so. Had to settle with all the goals being 
-                          outputted at once. I also downloaded GutHub, created a read me, a software video and uploaded all the class work. 
+                          outputted at once. I also downloaded GutHub, created a README, a software video and uploaded all the class work. 
 
 
 Things I'd like to learn:
