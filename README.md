@@ -22,3 +22,6 @@ To download BlueJay, simply look up Bluejay download in any browser. Click the f
 
 NOTE: I frogot to mention in my video- you will need to download my txt file and put it in the same file as your BlueJay project in your fiels so that when you run the program it can access the file! 
 
+Link to Video on how to do it:
+https://youtu.be/ix6OWS7sUAE
+
